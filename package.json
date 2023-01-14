@@ -2,6 +2,27 @@
   "type": "module",
   "dependencies": {
     "canvas": "^2.11.0",
-    "image-size": "^1.0.2"
-  }
+    "image-size": "^1.0.2",
+    "uuid": "^9.0.0"
+  },
+  "name": "simple-generator-avatar",
+  "version": "1.0.5",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antaresofficial/simple-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antaresofficial/simple-generator/issues"
+  },
+  "homepage": "https://github.com/antaresofficial/simple-generator#readme",
+  "description": ""
 }
